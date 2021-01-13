@@ -1,2 +1,3 @@
 # WITS_Site
-Website for WITS (will be edited later)
+Website for Western University's Women in Technology Society
+www.wits-uwo.ca
